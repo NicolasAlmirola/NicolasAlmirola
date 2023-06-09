@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="justify">
     <h1>Hola, Soy Bitmaus</h1>
     <h3>Soy un apasionado desarrollador Front-End altamente creativo y autodidacta, en constante búsqueda de superar mis límites y aprender cada día. Mi experiencia en el desarrollo de            interfaces de usuario y la creación de experiencias digitales atractivas me ha permitido adquirir habilidades sólidas en HTML, CSS y JavaScript.
        Mi enfoque principal radica en la construcción de interfaces intuitivas y responsivas, optimizando el rendimiento y la accesibilidad.</h3>
