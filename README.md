@@ -36,6 +36,5 @@
 ---
 
 # 📝 My Stats
-<div align="center">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasAlmirola&theme=elegant&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
-</div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasAlmirola&theme=elegant&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
