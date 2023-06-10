@@ -23,12 +23,12 @@
 <div align="center">
     <h3>🔨 Lenguajes y herramientas</h3>
     <div>
-        <img height="50px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png?w=740&t=st=1686354831~exp=1686355431~hmac=4067e059218b7341060a671ecf18b17a535a51e2ffc1e911c2cbfd6f9498043b" title="HTML" alt="HTML">
-        <img height="50px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png?w=740&t=st=1686354803~exp=1686355403~hmac=124043370eebce869e57d9c3a5d196aa220063a9bddc267f3bdf65f076351ccd" title="CSS" alt="CSS">
-        <img height="50px" src="https://cdn-icons-png.flaticon.com/512/423/423107.png?w=740&t=st=1686354912~exp=1686355512~hmac=47cf348926a5b796f596601fddf3fceb0d8ffa65841dd3fee452f80236647d08" title="JS" alt="JS">
-        <img height="50px" src="https://themedotid.github.io/bootstrap-icon" title="Bootstrap" alt="Bootstrap">
+        <img height="50px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png?       w=740&t=st=1686354831~exp=1686355431~hmac=4067e059218b7341060a671ecf18b17a535a51e2ffc1e911c2cbfd6f9498043b"                   title="HTML" alt="HTML">
+        <img height="50px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png?w=740&t=st=1686354803~exp=1686355403~hmac=124043370eebce869e57d9c3a5d196aa220063a9bddc267f3bdf65f076351ccd"                   title="CSS" alt="CSS">
+        <img height="50px" src="https://cdn-icons-png.flaticon.com/512/423/423107.png?w=740&t=st=1686354912~exp=1686355512~hmac=47cf348926a5b796f596601fddf3fceb0d8ffa65841dd3fee452f80236647d08"                   title="JS" alt="JS">
+        <img height="50px" src="[https://themedotid.github.io/bootstrap-icon](https://v5.getbootstrap.com/)" title="Bootstrap" alt="Bootstrap">
         <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" title="React" alt="React">
-        <img height="50px" src="https://cdn2.iconfinder.com/data/icons/funky/64/Wordpress-2-512.png" title="Wordpress" alt="Wordpress">
-        <img height="50px" src="https://play.google.com/store/apps/details?id=air.builderall.image.picker&hl=en_NZ" title="Builderall" alt="Builderall">
+        <img height="50px" src="https://cdn2.iconfinder.com/data/icons/funky/64/Wordpress-2-512.png"                         title="Wordpress" alt="Wordpress">
+        <img height="50px" src="https://play.google.com/store/apps/details?id=air.builderall.image.picker&hl=en_NZ"           title="Builderall" alt="Builderall">
     </div>
 </div>
