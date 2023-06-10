@@ -29,6 +29,6 @@ sss
         <img height="50px" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap">
         <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" title="React" alt="React">
         <img height="50px" src="https://cdn2.iconfinder.com/data/icons/funky/64/Wordpress-2-512.png" title="Wordpress" alt="Wordpress">
-        <img height="50px" src="https://play.google.com/store/apps/details?id=air.builderall.image.picker&hl=en_NZ" title="Builderall" alt="Builderall">
+        <img height="50px" src="https://saasaffiliate.com/wp-content/uploads/Builderall.png" title="Builderall" alt="Builderall">
     </div>
 </div>
