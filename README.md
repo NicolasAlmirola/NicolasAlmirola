@@ -24,7 +24,7 @@
     <h3>🔨 Lenguajes y herramientas</h3>
     <div>
         <img height="50px" src="https://saasaffiliate.com/wp-content/uploads/Builderall.png" title="Builderall" alt="Builderall">
-        <img height="50px" src="https://cdn2.iconfinder.com/data/icons/funky/64/Wordpress-2-512.png" title="Wordpress" alt="Wordpress">
+        <img height="50px" src="https://cdn2.iconfinder.com/data/icons/funky/64/Wordpress-2-512.png"                 title="Wordpress" alt="Wordpress">
         <img height="50px" src="https://cdn-icons-png.flaticon.com/512/919/919827.png?w=740t=st=1686354831~exp=1686355431~hmac=4067e059218b7341060a671ecf18b17a535a51e2ffc1e911c2cbfd6f9498043b" title="HTML" alt="HTML">
         <img height="50px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png?w=740&t=st=1686354803~exp=1686355403~hmac=124043370eebce869e57d9c3a5d196aa220063a9bddc267f3bdf65f076351ccd" title="CSS" alt="CSS">
         <img height="50px" src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" title="Bootstrap" alt="Bootstrap">
@@ -37,4 +37,4 @@
 
 # 📝 My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasAlmirola&theme=elegant&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasAlmirola&theme=neon&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
