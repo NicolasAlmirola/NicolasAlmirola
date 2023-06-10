@@ -32,3 +32,9 @@
         <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" title="React" alt="React">
     </div>
 </div>
+
+---
+
+# 📝 My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NicolasAlmirola&theme=elegant&border_radius=10&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
