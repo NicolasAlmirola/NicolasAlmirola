@@ -12,7 +12,7 @@
 
 - 🖌️ Me gusta tambien el UI y el diseño en general
 
-- 📲 Puedes contactarme por [Email] (nicolasvelasco2102@gmail.com)
+- 📲 Puedes contactarme por [nicolasvelasco2102@gmail.com] (Email)
 
 - 🛠️ Actualmente me encuentro Reforzando mis conocimientos previos
 
