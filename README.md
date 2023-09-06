@@ -10,7 +10,7 @@
 
 - 🌍 Soy de Bogotá, Colombia
 
-- 🖌️ Me gusta tambien el UI y el diseño en general
+- 🖌️ Me gusta tambien el UI, la programación y el diseño en general
 
 - 📲 Puedes contactarme por nicolasvelasco2102@gmail.com
 
